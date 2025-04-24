@@ -1,3 +1,15 @@
+h1 {
+  text-align: center;
+  font-family: "Noto Sans", sans-serif;
+}
 p {
   font-family: "Noto Sans", sans-serif;
+}
+.centerimg{
+  margin: auto;
+  text-align: center;
+}
+.contacts{
+  text-align: center;
+  color: gray;
 }
