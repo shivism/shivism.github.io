@@ -16,6 +16,7 @@ blockquote:before {
   color: #ccc;
   content: attr(vrln);
   font-size: 2em;
+  font-family: "Noto Sans", sans-serif;
   line-height: 0.1em;
   margin-right: 0.25em;
   vertical-align: -0.4em;
