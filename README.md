@@ -1,1 +1,1 @@
-print("I don't know what i'm doing :D")
+**The Official Hub for News on Shivism**
