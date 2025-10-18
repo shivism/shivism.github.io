@@ -19,3 +19,6 @@ blockquote{
   text-align: center;
   color: gray;
 }
+.red {
+  color: rgb(255, 0, 0);
+}
